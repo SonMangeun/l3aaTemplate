@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: cloud-sample 
-          image: cepgstapacr.azurecr.io/cloud-sample
+          image: ceappacr.azurecr.io/cloud-sample
           ports:
           - containerPort: 8080
